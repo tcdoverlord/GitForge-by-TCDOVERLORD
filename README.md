@@ -99,3 +99,37 @@ GitForge is a portfolio publishing assistant.
 It is not meant to replace Git knowledge. It exists to make the repeated publishing workflow faster, cleaner, and easier to remember.
 
 > If I have to do it twice... I build a system.
+---
+
+# 📚 Documentation Library
+
+GitForge includes a complete documentation library to help developers automate GitHub publishing, improve project quality, and build consistent open-source repositories.
+
+| Document                                                 | Description                                                                                        |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 📖 [Project Philosophy](docs/Philosophy.md)              | The design philosophy and engineering principles behind GitForge.                                  |
+| 🤖 [AI Prompt Library](docs/AI_PROMPTS.md)               | Ready-to-use AI prompts for project reviews, documentation, releases, and repository improvements. |
+| 🚀 [GitHub Publishing Pipeline](docs/GITHUB_PIPELINE.md) | Complete PowerShell + GitHub CLI publishing workflow from local project to GitHub.                 |
+| ✅ [Release Checklist](docs/RELEASE_CHECKLIST.md)         | Verify your project is ready before publishing a release.                                          |
+| 🛠️ [Troubleshooting Guide](docs/TROUBLESHOOTING.md)     | Common Git, GitHub CLI, PowerShell, and publishing issues with solutions.                          |
+| 🗺️ [Project Roadmap](docs/ROADMAP.md)                   | Planned features, milestones, and future development goals.                                        |
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+Before submitting a pull request, please review the documentation library to understand the project philosophy, publishing workflow, and coding standards.
+
+---
+
+## 📄 License
+
+GitForge is released under a custom **Personal Use and Contribution License**.
+
+* ✅ Personal use is permitted.
+* ✅ Contributions are welcome.
+* ❌ Business, enterprise, cloud-hosted, managed-service, resale, or commercial use requires written permission from **TCDOVERLORD**.
+
+See [LICENSE.md](LICENSE.md) for the complete license.
