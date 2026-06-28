@@ -109,10 +109,6 @@ GitForge includes a complete documentation library to help developers automate G
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | 📖 [Project Philosophy](docs/Philosophy.md)              | The design philosophy and engineering principles behind GitForge.                                  |
 | 🤖 [AI Prompt Library](docs/AI_PROMPTS.md)               | Ready-to-use AI prompts for project reviews, documentation, releases, and repository improvements. |
-| 🚀 [GitHub Publishing Pipeline](docs/GITHUB_PIPELINE.md) | Complete PowerShell + GitHub CLI publishing workflow from local project to GitHub.                 |
-| ✅ [Release Checklist](docs/RELEASE_CHECKLIST.md)         | Verify your project is ready before publishing a release.                                          |
-| 🛠️ [Troubleshooting Guide](docs/TROUBLESHOOTING.md)     | Common Git, GitHub CLI, PowerShell, and publishing issues with solutions.                          |
-| 🗺️ [Project Roadmap](docs/ROADMAP.md)                   | Planned features, milestones, and future development goals.                                        |
 
 ---
 
