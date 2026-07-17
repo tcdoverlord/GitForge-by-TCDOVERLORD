@@ -174,6 +174,43 @@ Future versions are planned to include:
 
 ---
 
+# 🏗️ Architecture
+
+```mermaid
+flowchart TD
+
+A[START_GITFORGE.bat]
+A --> B[Start-GitForge.ps1]
+
+B --> C[Configuration Engine]
+B --> D[PowerShell GUI]
+B --> E[Logging Engine]
+
+D --> F[Project Folder]
+D --> G[Repository Information]
+D --> H[Repository Visibility]
+
+F --> I[Git Engine]
+G --> I
+H --> I
+
+I --> J[git init]
+J --> K[git add .]
+K --> L[git commit]
+
+L --> M[GitHub CLI]
+M --> N[gh repo create]
+N --> O[Repository Configuration]
+O --> P[Description]
+O --> Q[Topics]
+
+Q --> R[git push]
+R --> S[Git Status]
+S --> T[Launch Repository]
+
+T --> U[GitHub Repository]
+```
+
 # 🤝 Contributing
 
 Contributions are welcome.
