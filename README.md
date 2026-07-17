@@ -7,13 +7,9 @@
 <p align="center">
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge)
-
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE?style=for-the-badge)
-
 ![Git](https://img.shields.io/badge/Git-Required-F05032?style=for-the-badge)
-
 ![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-Required-181717?style=for-the-badge)
-
 ![License](https://img.shields.io/badge/License-TPLL-success?style=for-the-badge)
 
 </p>
@@ -209,7 +205,7 @@ For commercial licensing inquiries, please contact:
 
 GitHub: https://github.com/tcdoverlord
 
-See the [LICENSE](LICENSE) file for the complete license terms.
+See the [LICENSE](license) file for the complete license terms.
 
 # 👨‍💻 Author
 
